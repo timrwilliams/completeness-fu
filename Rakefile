@@ -20,4 +20,4 @@ Rake::TestTask.new(:test) do |t|
   t.verbose = true
 end
 
-require 'rake/rdoctask'
+require 'rdoc/task'

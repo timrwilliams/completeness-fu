@@ -1,8 +1,8 @@
 source "http://rubygems.org"
 
-gem 'activemodel',  '~> 3.0'
-gem 'rake',         '~> 0.8.7'
-gem 'shoulda',      '~> 2.11.3'
-gem 'mocha',        '~> 0.9.8'
+gem 'activemodel',  '>= 4.0.0'
+gem 'rake',         '>= 10.1.0'
+gem 'shoulda',      '>= 3.5.0'
+gem 'mocha',        '>= 0.14.0'
 
 gem 'appraisal'
