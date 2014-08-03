@@ -3,6 +3,7 @@ Completeness-Fu [![Build Status](https://secure.travis-ci.org/timrwilliams/compl
 
 In short, completeness-fu for ActiveModel allows you cleanly define the way a model instance is scored for completeness, similar to LinkedIn user profiles.
 
+Updated for Rails 4.
 
 When should I use it?
 ---------------------
